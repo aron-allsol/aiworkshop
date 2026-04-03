@@ -4,9 +4,9 @@
 &ANALYZE-SUSPEND _UIB-CODE-BLOCK _CUSTOM _DEFINITIONS C-Win 
 /*------------------------------------------------------------------------
 
-  File: 
+  File: ItemWin.w
 
-  Description: 
+  Description: Item maintenance window
 
   Input Parameters:
       <none>
@@ -14,9 +14,9 @@
   Output Parameters:
       <none>
 
-  Author: 
+  Author: aron-allsol
 
-  Created: 
+  Created: Thu Apr 03 2026
 
 ------------------------------------------------------------------------*/
 /*          This .W file was created with the Progress AppBuilder.      */
